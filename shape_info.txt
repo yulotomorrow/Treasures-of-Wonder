@@ -1,0 +1,7 @@
+#	Exult 1.7.0git text message file.	Written by ExultStudio.
+%%section version
+:7
+%%endsection
+%%section warmth_data
+:1036/0/5
+%%endsection
