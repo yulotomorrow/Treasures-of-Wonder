@@ -1747,4 +1747,5 @@ Exult 1.7.0git text message file.  Written by ExultStudio.
 0x181:door
 0x182:table
 0x183:wall
+0x184:mimic?
 %%endsection miscnames
