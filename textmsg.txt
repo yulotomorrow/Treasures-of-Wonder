@@ -1002,6 +1002,7 @@ Exult 1.7.0git text message file.  Written by ExultStudio.
 0x40d:battle candelabra
 0x40e:bread sword
 0x40f:magic cannon
+0x411:figurine
 %%endsection shapes
 %%section msgs
 0x0:"Step aside!"
