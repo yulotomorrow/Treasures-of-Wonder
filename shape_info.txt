@@ -2,10 +2,17 @@
 %%section version
 :7
 %%endsection
+%%section explosions
+:1040/4/9
+%%endsection
 %%section warmth_data
 :1036/0/5
 %%endsection
 %%section framenames
 :800/8/-1/0/388
 :800/9/-1/0/388
+%%endsection
+%%section altready
+:1037/12/255
+:1038/8/2
 %%endsection

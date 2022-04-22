@@ -999,6 +999,9 @@ Exult 1.7.0git text message file.  Written by ExultStudio.
 0x3fe:surf
 0x3ff:Silver Tree
 0x40c:Guardian puppet
+0x40d:battle candelabra
+0x40e:bread sword
+0x40f:magic cannon
 %%endsection shapes
 %%section msgs
 0x0:"Step aside!"
